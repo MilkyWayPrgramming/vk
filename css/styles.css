@@ -1,0 +1,51 @@
+
+body{
+  background-color: #d9d9ff;
+  margin: 0;
+}
+
+h1{
+  font-size: 30px;
+  margin-top: 0;
+  background-color: #d9d9ff;
+  font-family: 'Euphoria Script', cursive;
+  text-shadow: 2px 2px white;
+  color: #000066;
+
+}
+h3{
+  background-color: #b3d9ff;
+font-family: 'Kelly Slab', cursive;
+text-shadow: 2px 2px white;
+color: #000066;
+}
+
+div {
+  background-color: #e9ecf0;
+}
+
+img{
+  height: 300px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: groove;
+  border-color: #0000ff;
+  border-width: 2px;
+}
+
+h2{
+  font-size: 35px;
+  font-family: 'Euphoria Script', cursive;
+  font-style: oblique;
+  text-shadow: 2px 2px white;
+  color: #000066;
+}
+
+h3 a{
+  font-size: 35px;
+font-family: 'Kelly Slab', cursive;
+text-shadow: 2px 2px white;
+color: #000066;
+}
